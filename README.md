@@ -6,7 +6,7 @@ Bookmark this link and check again for any additional instructions.
 ## Mac Prep (Downloads)
 
 1. Download and install Xcode 11 Beta 7 from [Beta Software Downloads](https://developer.apple.com/download/)
-2. Optional: You can install Catalina on an external simulator
+2. Optional: You can install Catalina on an external SSD
       1. NOTE: You don't need to install Catalina, the new Xcode 11 Simulators are fast enough for rapid prototyping.
       3. Xcode 11 works on both Mojave and Catalina, so I'll include my current setup beta macOS setup below.
 
